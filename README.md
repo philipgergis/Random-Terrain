@@ -1,1 +1,2 @@
-# Random-Terrain
+The create_terrain_extended.py file can be used in Blender to create a terrain model with adjustable features. 
+The terrain_ex.blend file has an example terrain in it with a premade material on it as well.
